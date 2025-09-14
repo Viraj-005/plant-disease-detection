@@ -55,13 +55,13 @@ The deep learning model (CNN) was trained using this Kaggle notebook:
    source .venv/bin/activate   # Linux/Mac
    .venv\Scripts\activate      # Windows                                                                                
 
-3. Install dependencies:  
+4. Install dependencies:
    pip install -r requirements.txt
 
-4. Run the FastAPI server:
+6. Run the FastAPI server:
    uvicorn main:app --reload
 
-5. Open the app in your browser:
+7. Open the app in your browser:
    http://127.0.0.1:8000/docs
 
 ---
