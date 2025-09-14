@@ -30,16 +30,25 @@ The deep learning model (CNN) was trained using this Kaggle notebook:
 - 🧾 Returns predicted disease class + confidence score  
 - 🌍 Ready for **deployment** (Docker, AWS, GCP, Azure, Render, Railway, etc.)  
 
+---                    
+
+## ⚡ Features
+
+- Detect plant diseases from leaf images.
+- Fast and lightweight API using FastAPI.
+- Easy to deploy locally or on cloud platforms.
+
 ---
 
-## 🗂️ Project Structure  
+## 🛠 Installation & Setup
 
-├── main.py # FastAPI app
-├── plant_disease_model.keras # Trained deep learning model
-├── requirements.txt # Python dependencies
-├── image.png # Demo image (preview)
-├── .gitignore
-└── README.md
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/<your-username>/plant-disease-detection-fastapi.git
+cd plant-disease-detection-fastapi
+                    
+  
 
 ---
 
@@ -67,12 +76,12 @@ The deep learning model (CNN) was trained using this Kaggle notebook:
    pip install -r requirements.txt
     ```
    
-4. **Run the FastAPI server:**
+### Run the FastAPI server:
    ```sh
    uvicorn main:app --reload
    ```
 
-5. **Open the app in your browser:**
+### Open the app in your browser:
    ```sh
    http://127.0.0.1:8000/docs
    ```                                                                                                  
