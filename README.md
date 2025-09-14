@@ -66,19 +66,18 @@ http://127.0.0.1:8000/docs
 
 ---
 
-🔮 Future Improvements
-Add support for more plant species & disease categories
+## 🔮 Future Improvements  
 
-Deploy as a public API with authentication
-
-Build a mobile app frontend (React Native / Flutter)
-
-Integrate with IoT devices for real-time farm monitoring
+- Add support for **more plant species & disease categories**  
+- Deploy as a **public API with authentication**  
+- Build a **mobile app frontend** (React Native / Flutter)  
+- Integrate with **IoT devices** for real-time farm monitoring  
 
 ---
 
-👨‍💻 Author: Viraj Induruwa
-📌 AI-Powered Plant Disease Detection System
+## 👨‍💻 Author  
 
+**Viraj Induruwa**  
+📌 *AI-Powered Plant Disease Detection System*  
 
 ---
