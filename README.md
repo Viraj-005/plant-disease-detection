@@ -40,18 +40,6 @@ The deep learning model (CNN) was trained using this Kaggle notebook:
 
 ---
 
-## 🛠 Installation & Setup
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/<your-username>/plant-disease-detection-fastapi.git
-cd plant-disease-detection-fastapi
-                    
-  
-
----
-
 ## 📦 Installation & Setup  
 
 1. **Clone the repository:** 
