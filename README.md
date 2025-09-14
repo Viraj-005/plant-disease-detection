@@ -45,24 +45,24 @@ The deep learning model (CNN) was trained using this Kaggle notebook:
 
 ## 📦 Installation & Setup  
 
-1. Clone the repository:  
+1. **Clone the repository:** 
    ```bash
    git clone https://github.com/<your-username>/plant-disease-detection-fastapi.git
    cd plant-disease-detection-fastapi
    
-2. Create and activate a virtual environment:
+2. **Create and activate a virtual environment:**
    python -m venv .venv
    source .venv/bin/activate   # Linux/Mac
    .venv\Scripts\activate      # Windows                                                                                
 
-4. Install dependencies:
+3. **Install dependencies:**
    pip install -r requirements.txt
 
-6. Run the FastAPI server:
+4. **Run the FastAPI server:**
    uvicorn main:app --reload
 
-7. Open the app in your browser:
-   http://127.0.0.1:8000/docs
+5. **Open the app in your browser:**
+   http://127.0.0.1:8000/docs                                                                                                    
 
 ---
 
